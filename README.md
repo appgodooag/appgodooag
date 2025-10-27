@@ -1,33 +1,66 @@
-# ApPgOd
 
-**`Software Developer (Web/Game/Algorithm)`**
+<h1 align="center">🚀 ApPgOd — Iliya</h1>
+<h3 align="center"><code>Software Developer (Web / Game / Algorithm)</code></h3>
 
-Hey, I'm Iliya 👋 — an indie full-stack developer, content creator, and Helli 4 student from Iran. I’m building my version of the digital world one step at a time. Every coding project I tackle is crafted from scratch — from planning and design to solving real-life problems with code. My creative process extends to video content too, where I shape ideas into polished productions with artistic flair.
-
-I share my journey and creations on [YouTube as ForrestKnight](https://www.youtube.com/c/ForrestKnight), where over 600k subscribers follow along.
-
-<p align="left">
-   <a href="https://github.com/appgodooag?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/appgodooag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://www.instagram.com/its_appgod">
-      <img alt="Instagram" title="Follow me on Instagram" src="labelColor=fc0fc0&logo=instagram"/>
-   </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Indie+Full-Stack+Developer;Game+Dev+%7C+Algorithm+Lover;Content+Creator+%7C+Helli+4+Student;Crafting+code+with+creativity" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 👋 About Me
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+Hey, I'm **Iliya** — an persian software developer, content creator, and Helli 4 student from **Iran** 🇮🇷.  
+I’m building my version of the digital world one step at a time.
+
+💡 Every project I create is built from scratch — from planning and design to solving real-world problems with code.  
+🎬 I also produce video content, shaping ideas into polished productions with artistic flair.
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/appgodooag?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/appgodooag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/its_appgod">
+    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</p>
+
+---
+
+### 🎯 Current Goals
+
+- 🚀 Build My Dreams 
+- 🎥 Grow my YouTube channel with high-quality dev content  
+- 🧠 Master advanced algorithms and data structures  
+- 🌍 Collaborate with developers around the world  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=appgodooag&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appgodooag&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
