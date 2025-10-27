@@ -11,7 +11,7 @@ I share my journey and creations on [YouTube as ForrestKnight](https://www.youtu
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/appgodooag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://www.instagram.com/its_appgod">
-      <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=instagram"/>
+      <img alt="Instagram" title="Follow me on Instagram" src="labelColor=fc0fc0&logo=instagram"/>
    </a>
 </p>
 
