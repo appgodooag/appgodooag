@@ -3,7 +3,7 @@
 <h3 align="center"><code>Software Developer (Web / Game / Algorithm)</code></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Persian+Full-Stack+Developer;Game+Dev+%7C+Algorithm+Lover;Content+Creator+%7C+Helli+4+Student;Crafting+code+with+creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Persian+Software+Developer;Game+Dev+%7C+Algorithm+Lover;Content+Creator+%7C+Helli+4+Student;Crafting+code+with+creativity" alt="Typing SVG" />
 </p>
 
 ---
