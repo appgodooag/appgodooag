@@ -1,4 +1,3 @@
-
 <h1 align="center">🚀 ApPgOd — Iliya</h1>
 <h3 align="center"><code>Software Developer (Web / Game / Algorithm)</code></h3>
 
@@ -10,7 +9,7 @@
 
 ### 👋 About Me
 
-Hey, I'm **Iliya** — an persian software developer, content creator, and Helli 4 student from **Iran** 🇮🇷.  
+Hey, I'm **Iliya** — a Persian software developer, content creator, and Helli 4 student from **Iran** 🇮🇷.  
 I’m building my version of the digital world one step at a time.
 
 💡 Every project I create is built from scratch — from planning and design to solving real-world problems with code.  
@@ -26,6 +25,12 @@ I’m building my version of the digital world one step at a time.
   </a>
   <a href="https://www.instagram.com/its_appgod">
     <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/app-god-7b4aa1394/">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/315yv7jbuezpwtpwodch5ofkny6q">
+    <img alt="Spotify" title="Follow me on Spotify" src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
@@ -49,7 +54,7 @@ I’m building my version of the digital world one step at a time.
 
 ### 🎯 Current Goals
 
-- 🚀 Build My Dreams 
+- 🚀 Build my dreams, one project at a time  
 - 🎥 Grow my YouTube channel with high-quality dev content  
 - 🧠 Master advanced algorithms and data structures  
 - 🌍 Collaborate with developers around the world  
