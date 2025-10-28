@@ -65,7 +65,6 @@ I’m building my version of the digital world one step at a time.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=appgodooag&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appgodooag&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
