@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-Hey, I'm **Iliya** — a Persian software developer, content creator, and Helli 4 student from **Iran** 🇮🇷.  
+Hey, I'm **Iliya** — a Persian software developer, content creator, and Helli student from **Iran** 🇮🇷.  
 I’m building my version of the digital world one step at a time.
 
 💡 Every project I create is built from scratch — from planning and design to solving real-world problems with code.  
